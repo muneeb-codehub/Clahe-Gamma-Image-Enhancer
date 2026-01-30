@@ -21,12 +21,7 @@ pip install opencv-python numpy matplotlib
 Run the script with an image path as argument:
 
 ```bash
-python enhance.py <image_path>
-```
-
-Example:
-```bash
-python enhance.py 2.png
+python enhance.py
 ```
 
 ## Enhancement Techniques
@@ -57,7 +52,7 @@ All enhanced images are saved in the `results-final/` directory with the followi
 ├── enhance.py          # Main enhancement script
 ├── enhance.ipynb       # Jupyter notebook version
 ├── *.png              # Sample images
-└── results-final/     # Output directory
+└── results/     # Output directory
 ```
 
 ## Author
