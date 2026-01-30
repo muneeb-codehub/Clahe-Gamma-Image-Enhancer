@@ -1,0 +1,23 @@
+# RAR files
+*.rar
+
+# Results folders
+results/
+results_Grayscale/
+results-CLI-input/
+results-final/
+results-gamma/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Images (optional - uncomment if you don't want to track images)
+# *.png
+# *.jpg
+# *.jpeg
